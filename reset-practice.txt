@@ -1,1 +1,2 @@
 I am practising git reset.
+I understand how to reset staged changes.
